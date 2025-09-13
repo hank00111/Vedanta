@@ -11,3 +11,8 @@ google-cloud-core
 google-generativeai
 python-binance 
 ta 
+jinja2
+optuna
+hiplot
+plotly
+nbformat
